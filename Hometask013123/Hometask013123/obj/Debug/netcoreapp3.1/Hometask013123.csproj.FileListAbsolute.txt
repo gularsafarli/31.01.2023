@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Hometask013123\Hometask013123\bin\Debug\netcoreapp3.1\Hometask013123.exe
+C:\Users\ASUS\source\repos\Hometask013123\Hometask013123\bin\Debug\netcoreapp3.1\Hometask013123.deps.json
+C:\Users\ASUS\source\repos\Hometask013123\Hometask013123\bin\Debug\netcoreapp3.1\Hometask013123.runtimeconfig.json
+C:\Users\ASUS\source\repos\Hometask013123\Hometask013123\bin\Debug\netcoreapp3.1\Hometask013123.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Hometask013123\Hometask013123\bin\Debug\netcoreapp3.1\Hometask013123.dll
+C:\Users\ASUS\source\repos\Hometask013123\Hometask013123\bin\Debug\netcoreapp3.1\Hometask013123.pdb
+C:\Users\ASUS\source\repos\Hometask013123\Hometask013123\obj\Debug\netcoreapp3.1\Hometask013123.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Hometask013123\Hometask013123\obj\Debug\netcoreapp3.1\Hometask013123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Hometask013123\Hometask013123\obj\Debug\netcoreapp3.1\Hometask013123.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Hometask013123\Hometask013123\obj\Debug\netcoreapp3.1\Hometask013123.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Hometask013123\Hometask013123\obj\Debug\netcoreapp3.1\Hometask013123.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Hometask013123\Hometask013123\obj\Debug\netcoreapp3.1\Hometask013123.dll
+C:\Users\ASUS\source\repos\Hometask013123\Hometask013123\obj\Debug\netcoreapp3.1\Hometask013123.pdb
+C:\Users\ASUS\source\repos\Hometask013123\Hometask013123\obj\Debug\netcoreapp3.1\Hometask013123.genruntimeconfig.cache
